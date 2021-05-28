@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BusStationSimulation/1.0.0": {
+        "dependencies": {
+          "BusStationSimulation.Library": "1.0.0"
+        },
+        "runtime": {
+          "BusStationSimulation.dll": {}
+        }
+      },
+      "BusStationSimulation.Library/1.0.0": {
+        "runtime": {
+          "BusStationSimulation.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BusStationSimulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusStationSimulation.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
